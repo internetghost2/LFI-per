@@ -2,6 +2,7 @@
 
 
 #python
+
 dot = ""
 dic = ["home", "hola", "dsdas", "prova", "dsakdsads", "dsadadasdsa", "1", "8"]
 
