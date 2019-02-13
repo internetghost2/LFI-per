@@ -1,5 +1,6 @@
 # LFI-custom
 
+Python 3
 
     print("Quin ...?")
     pregunta = input()
